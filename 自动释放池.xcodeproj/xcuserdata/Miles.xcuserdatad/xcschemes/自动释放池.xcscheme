@@ -5,6 +5,22 @@
    <BuildAction
       parallelizeBuildables = "YES"
       buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "02F71BCC1C16CCDF004C046A"
+               BuildableName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+               BlueprintName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+               ReferencedContainer = "container:&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
    </BuildAction>
    <TestAction
       buildConfiguration = "Debug"
@@ -13,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "02F71BCC1C16CCDF004C046A"
+            BuildableName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+            BlueprintName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+            ReferencedContainer = "container:&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -26,7 +51,22 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "02F71BCC1C16CCDF004C046A"
+            BuildableName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+            BlueprintName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+            ReferencedContainer = "container:&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
+         <AdditionalOption
+            key = "NSZombieEnabled"
+            value = "YES"
+            isEnabled = "YES">
+         </AdditionalOption>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
@@ -35,6 +75,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "02F71BCC1C16CCDF004C046A"
+            BuildableName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+            BlueprintName = "&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;"
+            ReferencedContainer = "container:&#x81ea;&#x52a8;&#x91ca;&#x653e;&#x6c60;.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
